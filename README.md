@@ -9,4 +9,4 @@ https://sjyurbanlab.github.io/website-assets/[directory-structure]/[filename]
 
 `[directory-structure]` and `[filename]` should be replaced by the file with the `filename` stored in the `directory-structure`.
 
-For example, https://sjyurbanlab.github.io/website-assets/home/introduction/hong-kong-night.jpg would point to the file `hong-kong-night.jpg` stored in `/home/introduction` directory.
+For example, https://sjyurbanlab.github.io/website-assets/home/introduction/hong-kong-day.jpg would point to the file `hong-kong-day.jpg` stored in `/home/introduction` directory.
